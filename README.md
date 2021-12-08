@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi, I'm Francisco. </h1>
 
-<p align='center'> I'm an Electrical and Computer Engineering graduate, and I have recently started working on web development! </p>
+<p align='center'> I'm an Electrical and Computer Engineering graduate with a passion for web development! </p>
  <br />
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65px" height="65px">&nbsp;&nbsp;&nbsp;&nbsp;
